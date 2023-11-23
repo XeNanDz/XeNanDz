@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @XeNanDz
 - 👀 I’m interested in IT
-- 🌱 I’m currently learning HTML,CSS,JAVA,PYTHON
+- 🌱 I’m currently learning HTML,CSS,JAVA,PYTHON,PHP
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
